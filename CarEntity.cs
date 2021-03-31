@@ -98,4 +98,4 @@ public class CarEntity : MonoBehaviour
             this.Invoke("ResetColor", 0.9f);
         }
     }
-}
+}//finish
